@@ -1,0 +1,10 @@
+D:\Ai Project - N queen\obj\Debug\Ai Project - N queen.csproj.AssemblyReference.cache
+D:\Ai Project - N queen\obj\Debug\Ai_Project___N_queen.Form1.resources
+D:\Ai Project - N queen\obj\Debug\Ai_Project___N_queen.Properties.Resources.resources
+D:\Ai Project - N queen\obj\Debug\Ai Project - N queen.csproj.GenerateResource.cache
+D:\Ai Project - N queen\obj\Debug\Ai Project - N queen.csproj.CoreCompileInputs.cache
+D:\Ai Project - N queen\bin\Debug\Ai Project - N queen.exe.config
+D:\Ai Project - N queen\bin\Debug\Ai Project - N queen.exe
+D:\Ai Project - N queen\bin\Debug\Ai Project - N queen.pdb
+D:\Ai Project - N queen\obj\Debug\Ai Project - N queen.exe
+D:\Ai Project - N queen\obj\Debug\Ai Project - N queen.pdb
